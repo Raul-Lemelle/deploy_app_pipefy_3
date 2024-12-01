@@ -1,0 +1,15 @@
+{
+    "name": "deploy_app_3",
+    "version": "1.0.0",
+    "description": "Aplicação de deploy com Express",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    },
+    "author": "RLEMELLE",
+    "license": "MIT"
+  }
+  
